@@ -1,1 +1,2 @@
-//checking out git bash
+const check= "wow"
+var a = "one more checking"
